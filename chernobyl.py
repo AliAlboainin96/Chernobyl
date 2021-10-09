@@ -58,3 +58,11 @@ cv2.imshow('Final', final_image)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
+
+def detectFace()
+
+def detectMovement()
+
+def processImage()
